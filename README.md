@@ -1,4 +1,3 @@
-```bash
 # Padrão Factory Method - Ferramentas de Segurança
 
 Implementação do padrão de projeto **Factory Method** em Java, demonstrando a criação de objetos de forma flexível e desacoplada.
@@ -66,6 +65,7 @@ O projeto possui **10 casos de teste** implementados com **JUnit 5**, cobrindo:
 Ou via terminal:
 ```bash
 mvn test
+```
 
 ## Diagrama de Classes
 
